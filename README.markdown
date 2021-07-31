@@ -1,7 +1,5 @@
 # Bitwise Operation
-naughty-pare-2edf4e.netlify.app
-
-Project is inspired by minimalistic ideas.
+https://naughty-pare-2edf4e.netlify.app/
 
 A simple explanation and example of how bitwise operators work.
 
