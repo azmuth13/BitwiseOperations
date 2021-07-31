@@ -1,4 +1,5 @@
 # Bitwise Operation
+naughty-pare-2edf4e.netlify.app
 
 Project is inspired by minimalistic ideas.
 
